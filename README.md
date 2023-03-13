@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: We learn by building what we don't know
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@forinda/691313fc-b83f-4c2f-9016-7e53bba73f36.png" /></a>
+![G](https://wakatime.com/share/@forinda/6f62ca39-72b6-4358-bdb5-8cad33e7c2a9.png)
