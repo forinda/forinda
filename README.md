@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 
@@ -15,3 +16,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: We learn by building what we don't know
 
 ![G](https://wakatime.com/share/@forinda/6f62ca39-72b6-4358-bdb5-8cad33e7c2a9.png)
+-->
+
+Hello there 👋 I'm `FELIX ORINDA`
+
+I have Collaborated on the following open source projects
+>  [TS patch](https://github.com/nonara/ts-patch)
+> A typescript tool for transforming path aliases
+
+> [NGITIGNORE](https://github.com/forinda/ngitignore)
+> A tool for generating ignore files on the CLI
+
+> [Tanstack Tables](https://github.com/TanStack/table)
+> Headless UI for building powerful tables & datagrids for React, Solid, Vue, Svelte and TS/JS.
+
+> [react-router-map](https://github.com/forinda/react-router-map)
+> A plugin for handling nested layouts in pre- `react-router-dom@v6.4`
+
+> [Code Runner](https://github.com/forinda/vscode-code-runner)
+> A VScode Plugin for running program files. Added `ziglang` support
+
+A web developer with skillset in:
+- Javascript
+- Python
+- Nodejs
+- Expressjs
+- Nestjs
+- Nextjs
+- Vuejs
+- Flask
+- Postgresql
+- Mongodb
