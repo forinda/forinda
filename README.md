@@ -38,12 +38,16 @@ I have Collaborated on the following open source projects
 
 A web developer with skillset in:
 - Javascript
+  - Nodejs
+  - Expressjs
+  - Nestjs
+  - Nextjs
+  - Vue
+  - Nuxt
 - Python
-- Nodejs
-- Expressjs
-- Nestjs
-- Nextjs
-- Vuejs
-- Flask
+  - Flask
+  - FastApi
 - Postgresql
 - Mongodb
+- Markdown
+- Mermaid
