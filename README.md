@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 ![G](https://wakatime.com/share/@forinda/6f62ca39-72b6-4358-bdb5-8cad33e7c2a9.png)
 -->
+<!--
 [![forinda Nuxter profile](https://nuxters.nuxt.com/card/forinda/og.png)](https://nuxters.nuxt.com/forinda)
+-->
 <!--# Hello there 👋 I'm `FELIX ORINDA` -->
-
+<!--
 I have Collaborated on the following open source projects
 >  [TS patch](https://github.com/nonara/ts-patch)
 > A typescript tool for transforming path aliases
@@ -51,3 +53,5 @@ A web developer with skillset in:
 - Mongodb
 - Markdown
 - Mermaid
+-->
+😄 Forinda
