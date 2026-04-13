@@ -55,3 +55,5 @@ A web developer with skillset in:
 - Mermaid
 -->
 😄 Forinda
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=forinda)](https://git.io/streak-stats)
