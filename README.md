@@ -6,7 +6,7 @@ Full-stack software engineer based in Nairobi, Kenya. I build backends that hand
  
 ### 🔭 What I'm working on
  
-- **[KickJS](https://forinda.github.io/kick-js/)** — a decorator-driven Node.js framework I authored. 19 npm packages, full CLI tooling, integration test coverage, and multilingual docs. Currently at <a href="https://www.npmjs.com/package/@forinda/kickjs"><img src="https://img.shields.io/npm/v/@forinda/kickjs?color=FACC15&label=npm" alt="npm version" /></a>and growing.
+- **[KickJS](https://kickjs.app/)** — a decorator-driven Node.js framework I authored. 19 npm packages, full CLI tooling, integration test coverage, and multilingual docs. Currently at <a href="https://www.npmjs.com/package/@forinda/kickjs"><img src="https://img.shields.io/npm/v/@forinda/kickjs?color=FACC15&label=npm" alt="npm version" /></a>and growing.
 
 ### ✍️ I also write & teach
  
